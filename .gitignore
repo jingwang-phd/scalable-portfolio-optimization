@@ -1,0 +1,12 @@
+data/
+build/
+*.tar.gz
+build_package.py
+experiments/run_queue.sh
+results/runs/
+*.log
+notes/
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/

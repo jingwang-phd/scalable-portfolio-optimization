@@ -1,0 +1,9 @@
+,EW,MV-sample,MV-shrink,GMV-LW,Robust-MV,Mean-CVaR,Min-CVaR,Mean-SemiDev
+EW,0,0,0,0,0,0,0,0
+MV-sample,0,0,0,0,0,0,0,0
+MV-shrink,0,0,0,0,0,0,0,0
+GMV-LW,0,0,0,0,0,0,1,0
+Robust-MV,0,0,0,0,0,0,0,0
+Mean-CVaR,0,0,0,0,0,0,0,0
+Min-CVaR,0,0,0,0,0,0,0,0
+Mean-SemiDev,0,0,0,0,0,0,0,0
